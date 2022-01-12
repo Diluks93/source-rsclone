@@ -1,21 +1,19 @@
 {
   "ru": {
-    "volume": "Громкость",
-    "music": "Музыка",
+    "sound": "Звук вкл / выкл",
     "resetProgress": "Удалить прогресс игры",
     "timeLimit": "Ограничение по времени",
     "tricksReport": "Отчет по пакостям",
     "cancel": "Отмена",
-    "ok": "Ок"
+    "save": "Сохранить"
   },
 
   "en": {
-    "volume": "Volume",
-    "music": "Music",
+    "sound": "Sound on / off",
     "resetProgress": "Reset game progress",
     "timeLimit": "Time limit",
     "tricksReport": "Tricks report",
     "cancel": "Cancel",
-    "ok": "Ok"
+    "save": "Save"
   }
 }
