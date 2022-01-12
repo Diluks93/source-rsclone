@@ -1,9 +1,8 @@
 {
-  "volume": ["Громкость", "Volume"],
-  "music": ["Музыка", "Music"],
+  "sound": ["Звук", "Music"],
   "resetProgress": ["Удалить прогресс игры", "Reset game progress"],
   "timeLimit": ["Игра на время", "Time limit"],
   "tricksReport": ["Отчет по пакостям", "Tricks report"],
   "cancel": ["Отмена", "Cancel"],
-  "ok": ["Ок", "Ok"]
+  "save": ["Сохранить", "Save"]
 }
