@@ -1,21 +1,9 @@
 {
-  "ru": {
-    "volume": "Громкость",
-    "music": "Музыка",
-    "resetProgress": "Удалить прогресс игры",
-    "timeLimit": "Ограничение по времени",
-    "trickReport": "Отчет по пакостям",
-    "cancel": "Отмена",
-    "ok": "Ок"
-  },
-
-  "en": {
-    "volume": "Volume",
-    "music": "Music",
-    "resetProgress": "Reset game progress",
-    "timeLimit": "Time limit",
-    "tricksReport": "Tricks report",
-    "cancel": "Cancel",
-    "ok": "Ok"
-  }
+  "volume": ["Громкость", "Volume"],
+  "music": ["Музыка", "Music"],
+  "resetProgress": ["Удалить прогресс игры", "Reset game progress"],
+  "timeLimit": ["Игра на время", "Time limit"],
+  "tricksReport": ["Отчет по пакостям", "Tricks report"],
+  "cancel": ["Отмена", "Cancel"],
+  "ok": ["Ок", "Ok"]
 }
