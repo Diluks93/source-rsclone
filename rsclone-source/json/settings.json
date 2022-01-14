@@ -1,7 +1,5 @@
 {
   "ru": {
-    "ru": "рус",
-    "en": "англ",
     "sound": "Звук вкл / выкл",
     "resetProgress": "Удалить прогресс игры",
     "timeLimit": "Ограничение по времени",
@@ -11,8 +9,6 @@
   },
 
   "en": {
-    "ru": "ru",
-    "en": "en",
     "sound": "Sound on / off",
     "resetProgress": "Reset game progress",
     "timeLimit": "Time limit",
