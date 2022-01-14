@@ -1,19 +1,19 @@
 {
   "ru": {
-    "sound": "Звук вкл / выкл",
+    "isSoundEnabled": "Звук вкл / выкл",
     "resetProgress": "Удалить прогресс игры",
-    "timeLimit": "Ограничение по времени",
-    "tricksReport": "Отчет по пакостям",
-    "cancel": "Отмена",
-    "save": "Сохранить"
+    "isTimeLimitEnabled": "Ограничение по времени",
+    "isTricksReportEnabled": "Отчет по пакостям",
+    "cancelSettings": "Отмена",
+    "saveSettings": "Сохранить"
   },
 
   "en": {
-    "sound": "Sound on / off",
+    "isSoundEnabled": "Sound on / off",
     "resetProgress": "Reset game progress",
-    "timeLimit": "Time limit",
-    "tricksReport": "Tricks report",
-    "cancel": "Cancel",
-    "save": "Save"
+    "isTimeLimitEnabled": "Time limit",
+    "isTricksReportEnabled": "Tricks report",
+    "cancelSettings": "Cancel",
+    "saveSettings": "Save"
   }
 }
