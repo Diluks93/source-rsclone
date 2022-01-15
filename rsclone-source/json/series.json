@@ -1,0 +1,96 @@
+[
+  [
+    {
+      "urlImg": "0",
+      "seriesTitle": "Вступление-1",
+      "minimumRating": "50%",
+      "duration": "5:00",
+      "hintDescription": "Подсказка к вступлению-1",
+      "seriesDescription": "Описание к вступлению-1"
+    },
+    {
+      "urlImg": "1",
+      "seriesTitle": "Вступление-2",
+      "minimumRating": "55%",
+      "duration": "4:30",
+      "hintDescription": "Подсказка к вступлению-2",
+      "seriesDescription": "Описание к вступлению-2"
+    },
+    {
+      "urlImg": "2",
+      "seriesTitle": "Вступление-3",
+      "minimumRating": "60%",
+      "duration": "4:00",
+      "hintDescription": "Подсказка к вступлению-3",
+      "seriesDescription": "Описание к вступлению-3"
+    }
+  ],
+  [
+    {
+      "urlImg": "3",
+      "seriesTitle": "Основная серия-1-1",
+      "minimumRating": "50%",
+      "duration": "5:00",
+      "hintDescription": "Подсказка к основной серии-1-1",
+      "seriesDescription": "Описание к основной серии-1-1"
+    },
+    {
+      "urlImg": "4",
+      "seriesTitle": "Основная серия-1-2",
+      "minimumRating": "55%",
+      "duration": "4:30",
+      "hintDescription": "Подсказка к основной серии-1-2",
+      "seriesDescription": "Описание к основной серии-1-2"
+    },
+    {
+      "urlImg": "5",
+      "seriesTitle": "Основная серия-1-3",
+      "minimumRating": "60%",
+      "duration": "4:00",
+      "hintDescription": "Подсказка к основной серии-1-3",
+      "seriesDescription": "Описание к основной серии-1-3"
+    },
+    {
+      "urlImg": "6",
+      "seriesTitle": "Основная серия-1-4",
+      "minimumRating": "50%",
+      "duration": "5:00",
+      "hintDescription": "Подсказка к основной серии-1-4",
+      "seriesDescription": "Описание к основной серии-1-4"
+    }
+  ],
+  [
+    {
+      "urlImg": "7",
+      "seriesTitle": "Основная серия-2-1",
+      "minimumRating": "50%",
+      "duration": "5:00",
+      "hintDescription": "Подсказка к основной серии-2-1",
+      "seriesDescription": "Описание к основной серии-2-1"
+    },
+    {
+      "urlImg": "8",
+      "seriesTitle": "Основная серия-2-2",
+      "minimumRating": "55%",
+      "duration": "4:30",
+      "hintDescription": "Подсказка к основной серии-2-2",
+      "seriesDescription": "Описание к основной серии-2-2"
+    },
+    {
+      "urlImg": "9",
+      "seriesTitle": "Основная серия-2-3",
+      "minimumRating": "60%",
+      "duration": "4:00",
+      "hintDescription": "Подсказка к основной серии-2-3",
+      "seriesDescription": "Описание к основной серии-2-3"
+    },
+    {
+      "urlImg": "10",
+      "seriesTitle": "Основная серия-2-4",
+      "minimumRating": "50%",
+      "duration": "5:00",
+      "hintDescription": "Подсказка к основной серии-2-4",
+      "seriesDescription": "Описание к основной серии-2-4"
+    }
+  ]
+]
