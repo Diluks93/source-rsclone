@@ -68,6 +68,64 @@
         }, 
         {
          "draworder":"topdown",
+         "id":9,
+         "name":"neighbor",
+         "objects":[
+                {
+                 "height":0,
+                 "id":9,
+                 "name":"spawn-neighbor",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":3694,
+                 "y":1264
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":10,
+         "name":"things",
+         "objects":[
+                {
+                 "height":0,
+                 "id":10,
+                 "name":"pen",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":2862.66666666667,
+                 "y":540
+                }, 
+                {
+                 "height":0,
+                 "id":11,
+                 "name":"picture",
+                 "point":true,
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":1680,
+                 "y":1206.66666666667
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":5,
          "name":"doors",
          "objects":[
@@ -202,8 +260,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":9,
- "nextobjectid":9,
+ "nextlayerid":11,
+ "nextobjectid":12,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
